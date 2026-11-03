@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Tech Sisters Code Challenges — learning, creating and growing together">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8FA"/><stop offset="1" stop-color="#F4D8E4"/></linearGradient></defs>
+<rect width="1200" height="310" rx="28" fill="url(#bg)"/>
+<rect x="24" y="24" width="1152" height="262" rx="22" fill="none" stroke="#DCACC4" stroke-width="2"/>
+<path d="M72 72h94M72 82h58M1034 233h98M1070 243h62" stroke="#C88CAB" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+<g font-family="Georgia,serif" fill="#864063" text-anchor="middle">
+<text x="600" y="86" font-size="22" letter-spacing="6">A PERSONAL LEARNING JOURNEY</text>
+<text x="600" y="158" font-size="62" font-weight="bold">Tech Sisters</text>
+<text x="600" y="208" font-size="36" letter-spacing="3">CODE CHALLENGES</text>
+<text x="600" y="250" font-size="20" font-style="italic">Learning, creating &amp; growing together.</text>
+</g>
+<g fill="#AD668B"><path d="M130 140c15-24 47-1 24 21l-24 21-24-21c-23-22 9-45 24-21z"/><path d="M1070 108c12-20 39-1 20 17l-20 19-20-19c-19-18 8-37 20-17z"/></g>
+<g font-family="monospace" fill="#AD668B" font-size="29"><text x="175" y="237">{ }</text><text x="965" y="231">&lt;/&gt;</text></g>
+</svg>
