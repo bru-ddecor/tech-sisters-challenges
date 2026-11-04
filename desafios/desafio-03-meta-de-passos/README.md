@@ -1,9 +1,9 @@
-# 🎀 Desafio #03 — Meta de Passos 🏃
+# Desafio #03 — Meta de Passos 🎀
 
 > **Comunidade:** Tech Sisters · **Linguagem:** Java · **Nível:** Iniciante  
 > **Data do desafio:** 04/11/2026
 
-## 💌 Proposta original
+## Proposta original
 
 Desafio proposto pela comunidade **Tech Sisters** no Discord.
 
@@ -13,13 +13,13 @@ Uma pessoa estabeleceu a meta diária de **8.000 passos**. O programa deve receb
 - **Atingiu** exatamente 8.000 passos;
 - **Não atingiu** a meta, informando quantos passos faltaram.
 
-### ✅ Critérios
+### Critérios
 
 1. Receber a quantidade de passos realizados no dia.
 2. Comparar o valor recebido com a meta de 8.000 passos.
 3. Mostrar a situação da meta e a diferença de passos quando aplicável.
 
-### 🧪 Casos de teste da proposta
+### Casos de teste da proposta
 
 | Entrada | Resultado esperado |
 | :-- | :-- |
@@ -29,13 +29,13 @@ Uma pessoa estabeleceu a meta diária de **8.000 passos**. O programa deve receb
 
 > **Enunciado original:** o resumo acima apresenta os requisitos do desafio. A imagem da publicação original poderá ser anexada em `assets/enunciado-original.png`, preservando o contexto e a autoria da comunidade.
 
-## ☕ Minha solução em Java
+## Minha solução em Java
 
 **[Abrir `MetaDePassos.java`](MetaDePassos.java)**
 
 Minha implementação utiliza `Scanner` para receber os passos, `while` e `hasNextInt()` para evitar entradas não inteiras, operações matemáticas para calcular a diferença e `if / else if / else` para distinguir as três situações da meta.
 
-### 🌸 Notas de aprendizagem
+### Notas de aprendizagem
 
 - Combinei entrada de dados, validação, cálculos e estruturas condicionais.
 - Corrigi o cálculo da mensagem de superação da meta para mostrar apenas os **passos excedentes**, e não o total realizado.
