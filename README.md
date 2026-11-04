@@ -4,7 +4,7 @@
   <br />
 
   ![Java](https://img.shields.io/badge/Java-Learning-B46B90?style=flat-square)
-  ![Challenges](https://img.shields.io/badge/Challenges-01%20documentado-DBA8C2?style=flat-square)
+  ![Challenges](https://img.shields.io/badge/Challenges-02%20documentados-DBA8C2?style=flat-square)
   ![Community](https://img.shields.io/badge/Community-Tech%20Sisters-8C426A?style=flat-square)
 </div>
 
@@ -19,6 +19,7 @@ A proposta é aprender com curiosidade, compartilhar experiências e construir c
 | Desafio | Tema | Linguagem | Solução |
 | :-- | :-- | :--: | :-- |
 | **#02** | Informações do Usuário | Java | [Ver desafio e código](desafios/desafio-02-informacoes-do-usuario/README.md) |
+| **#03** | Meta de Passos | Java | [Ver desafio e código](desafios/desafio-03-meta-de-passos/README.md) |
 
 ### ✨ Sobre esta jornada
 
