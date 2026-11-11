@@ -4,6 +4,10 @@
 > **Data de publicação do desafio:** 07/11/2026 (sábado)  
 > **Prazo informado no Discord:** 07/11/2026, das 08h às 22h (horário de São Paulo)
 
+## 🖼️ Enunciado original
+
+![Captura do enunciado do desafio #06, publicado em 07/11/2026](enunciado-original.png)
+
 ## 💻 Proposta do desafio
 
 Criar um algoritmo que receba uma senha como texto, verifique **cinco critérios de segurança simultaneamente** e informe **todos os motivos** caso a senha seja considerada inválida.
