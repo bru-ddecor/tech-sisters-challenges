@@ -4,7 +4,7 @@
   <br />
 
   ![Java](https://img.shields.io/badge/Java-Learning-B46B90?style=flat-square)
-  ![Challenges](https://img.shields.io/badge/Challenges-04%20documentados-DBA8C2?style=flat-square)
+  ![Challenges](https://img.shields.io/badge/Challenges-05%20documentados-DBA8C2?style=flat-square)
   ![Community](https://img.shields.io/badge/Community-Tech%20Sisters-8C426A?style=flat-square)
 </div>
 
@@ -22,6 +22,7 @@ A proposta é aprender com curiosidade, compartilhar experiências e construir c
 | **#03** | Meta de Passos | Java | [Ver desafio e código](desafios/desafio-03-meta-de-passos/README.md) |
 | **#04** | Compra Parcelada | Java | [Ver desafio e código](desafios/desafio-04-compra-parcelada/README.md) |
 | **#05** | Controle do Consumo de Energia | Java | [Ver desafio e código](desafios/desafio-05-controle-consumo-energia/README.md) |
+| **#06** | Validador de Senha Forte · 07/11/2026 | Java | [Ver desafio e código](desafios/desafio-06-validador-de-senha-forte/README.md) |
 
 ### ✨ Sobre esta jornada
 
